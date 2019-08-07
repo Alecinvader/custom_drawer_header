@@ -1,6 +1,6 @@
 # custom_header
 
-A new Flutter project.
+Check out my Youtube, Alec Reynolds.
 
 ## Getting Started
 
